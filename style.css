@@ -1,0 +1,16 @@
+body{
+    color: navy;
+    background-color: orange;
+    background-position: center;
+}
+.heading{
+    width: 80%;
+}
+#camera{
+    height: 350px;
+    width: 300px;
+    border: black  dashed;
+}
+#result_object_name, #result_object_accuracy, .new_of_objects{
+    color: navy;
+}
